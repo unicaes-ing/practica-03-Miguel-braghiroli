@@ -1,0 +1,7 @@
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\1er Periodo\Practica 3\Practica 3\Practica 3\bin\Debug\Practica 3.exe.config
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\1er Periodo\Practica 3\Practica 3\Practica 3\bin\Debug\Practica 3.exe
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\1er Periodo\Practica 3\Practica 3\Practica 3\bin\Debug\Practica 3.pdb
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\1er Periodo\Practica 3\Practica 3\Practica 3\obj\Debug\Practica 3.csprojResolveAssemblyReference.cache
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\1er Periodo\Practica 3\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\1er Periodo\Practica 3\Practica 3\Practica 3\obj\Debug\Practica 3.exe
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\1er Periodo\Practica 3\Practica 3\Practica 3\obj\Debug\Practica 3.pdb
